@@ -3,12 +3,17 @@
 - [x] open brackets/qutoes automatically close solved by auto-pairs.nvim
 - [x] Markdown something
 - [x] tabs/buffers
-- [ ] create git repo
-- [ ] configure wezterm to split horizontal
+- [x] create git repo
+- [ ] fix tree-sitter markdown-inline error on start up
+- [ ] install which-key.nvim
+- [ ] format on save
+- [ ] look into gnu stow for managing dotfiles
+- [ ] git plugin
 - [ ] scroll through snippets with tab
 - [ ] dadbod sql plugin
 - [ ] make bufferline pretty
 - [ ] make lualine pretty
+- [ ] figure out neotree keymaps (unhiding files etc)
 
 
 

@@ -30,8 +30,6 @@ return {
         }
       })
     end,
-    vim.keymap.set("n", "<C-.>", ":bn<CR>", {}),
-    vim.keymap.set("n", "<C-,>", ":bn<CR>", {})
   },
 
 }
