@@ -1,4 +1,11 @@
 local M = {}
+
+function M.map(mode, l, r, opts)
+  opts = opts or {}
+  vim.keymap.set(mode, l, r, opts)
+end
+
+
 -- Useful function from LazyVim https://github.com/LazyVim/LazyVim
 ---@param buf number?
 function M.bufremove(buf)

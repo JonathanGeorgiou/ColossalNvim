@@ -1,3 +1,8 @@
+######################
+ColossalNvim
+######################
+
+My Neovim config based on the wonderful [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 # TODO
 - [x] Comment.nvim
 - [x] open brackets/qutoes automatically close solved by auto-pairs.nvim
@@ -14,8 +19,6 @@
 - [ ] make bufferline pretty
 - [ ] make lualine pretty
 - [ ] figure out neotree keymaps (unhiding files etc)
-
-
 
 # Things I have done
 - installed Catppuccin Plasma colorschemes
